@@ -13,7 +13,7 @@ I'm a Software Engineer, currently working as a Frontend Developer at [Prunedge 
 - 💼 Job interests: Frontend Engineer, Web Developer, or UI Engineer (Intern or Junior level).
 - 🛠 Tech stack: HTML, CSS, SCSS, JavaScript, TypeScript, Material UI, PHP, WordPress
 - 📫 You can [view my resume](#) and contact me by emailing alexanderolalekanoweka@gmail.com.
-- 👨🏾‍💻 Check out my live site: [Al X](alexander-oweka.netlify.app).
+- 👨🏾‍💻 Check out my live site: [Al X](https://alexander-oweka.netlify.app).
 
 ---
 
