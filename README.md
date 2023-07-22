@@ -2,15 +2,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-alexander_oweka-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-oweka-6bb086166)](https://www.linkedin.com/in/alexander-oweka-6bb086166/) [![Twitter Badge](https://img.shields.io/badge/-@OwekaAlexander-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/OwekaAlexander)](https://twitter.com/OwekaAlexander)
 
-I'm a Software Engineer, currently working as a Frontend Developer at [Lotus Beta Analytics](https://lotusbetaanalytics.com/). I'm passionate about building responsive UI, JavaScript, anime, batman, Chelsea FC and video/mobile games.
+I'm a Software Engineer, currently working as a Frontend Developer at [Konga](https://konga.com/). I'm passionate about building responsive UI, JavaScript, anime, batman, Chelsea FC and video/mobile games.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
 - 🌱 I’m currently learning the MERN stack.
-- 🎧 I’m open to opportunities in open source projects, hackathons, internships, and junior-mid level roles.
-- 💼 Job interests: Frontend/Fullstack Engineer, Web Developer, or UI Engineer (Intern or Junior level).
-- 🛠 Tech stack: React JS/TS, HTML, CSS, SCSS, JavaScript, TypeScript, MongoDB, MySQL, PHP
+- 🎧 I’m open to opportunities in open source projects, hackathons, SAAS, e-commerce companies and startups.
+- 💼 Job interests: Frontend/Fullstack Engineer, Web Developer (Indermediate level).
+- 🛠 Tech stack: React JS/TS, HTML, CSS, SCSS, JavaScript, TypeScript, Node, Express, MongoDB, GraphQL, MySQL, PHP
 - 📫 You can [view my resume](#) and contact me by emailing alexanderolalekanoweka@gmail.com.
 - 👨🏾‍💻 Check out my live site: [Al X](https://alexander-oweka.netlify.app).
 
