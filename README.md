@@ -9,8 +9,8 @@ I'm a Software Engineer, currently working as a Frontend Developer at [Konga](ht
 - 😊 Pronouns: He/him
 - 🌱 I’m currently learning the MERN stack.
 - 🎧 I’m open to opportunities in open source projects, hackathons, SAAS, e-commerce companies and startups.
-- 💼 Job interests: Frontend/Fullstack Engineer, Web Developer (Indermediate level).
-- 🛠 Tech stack: React JS/TS, HTML, CSS, SCSS, JavaScript, TypeScript, Node, Express, MongoDB, GraphQL, MySQL, PHP
+- 💼 Job interests: Frontend/Fullstack Engineer, Web Developer (Mid/Senior level).
+- 🛠 Tech stack: React JS/TS, NextJS/TS, HTML, CSS, SCSS, JavaScript, TypeScript, Node, Express, MongoDB, GraphQL, MySQL, PHP
 - 📫 You can [view my resume](#) and contact me by emailing alexanderolalekanoweka@gmail.com.
 - 👨🏾‍💻 Check out my live site: [Al X](https://alexander-oweka.netlify.app).
 
