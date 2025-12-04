@@ -16,7 +16,7 @@ I'm a Software Engineer, currently undergoing my MSc in Big Data Technologies at
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexOla-NG&show_icons=true&include_all_commits=true&hide_border=true" alt="Alex's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOla-NG&langs_count=8&layout=compact&hide_border=true" alt="Alex's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats-iitr.vercel.app/api?username=AlexOla-NG&show_icons=true&include_all_commits=true&hide_border=true" alt="Alex's GitHub stats" /> | <img align="center" src="https://github-readme-stats-iitr.vercel.app/api/top-langs/?username=AlexOla-NG&langs_count=8&layout=compact&hide_border=true" alt="Alex's GitHub stats" /> |
 | ------------- | ------------- |
 
 <!---
